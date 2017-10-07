@@ -1,0 +1,8 @@
+title: About-me
+description: 个人网页简历的源代码
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
